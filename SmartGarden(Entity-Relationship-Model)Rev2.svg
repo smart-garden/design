@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:12px;}
+	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st4{font-size:8px;}
+	.st5{fill:#FFFFFF;stroke:#ED1C24;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st7{font-family:'MyriadWebPro-Bold';}
+	.st8{font-size:15px;}
+	.st9{font-family:'MyriadWebPro';}
+	.st10{font-size:20px;}
+</style>
+<rect x="499.4" y="170.5" class="st0" width="100" height="100"/>
+<rect x="682.4" y="185.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 366.0431 -442.7227)" class="st0" width="70" height="70"/>
+<rect x="835.4" y="170.5" class="st0" width="100" height="100"/>
+<rect x="850.4" y="353.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 534.0431 -512.3105)" class="st0" width="70" height="70"/>
+<rect x="835.4" y="506.5" class="st0" width="100" height="100"/>
+<rect x="1018.4" y="521.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 702.0431 -581.8984)" class="st0" width="70" height="70"/>
+<rect x="1171.4" y="506.5" class="st0" width="100" height="100"/>
+<rect x="1186.4" y="689.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 870.0431 -651.4863)" class="st0" width="70" height="70"/>
+<rect x="1171.4" y="842.5" class="st0" width="100" height="100"/>
+<text transform="matrix(1 0 0 1 533.4349 220.6583)" class="st1 st2">Users</text>
+<text transform="matrix(1 0 0 1 689.5005 222.2156)" class="st1 st2">connected</text>
+<text transform="matrix(1 0 0 1 863.7682 219.3253)" class="st1 st2">Gardens</text>
+<text transform="matrix(1 0 0 1 876.7686 388.4918)" class="st1 st2">has</text>
+<text transform="matrix(1 0 0 1 867.7682 556.4918)" class="st1 st2">Levels</text>
+<text transform="matrix(1 0 0 1 1044.1014 556.4918)" class="st1 st2">has</text>
+<text transform="matrix(1 0 0 1 1209.4347 559.8253)" class="st1 st2">Pods</text>
+<text transform="matrix(1 0 0 1 1200.7681 724.4918)" class="st1 st2">contains</text>
+<text transform="matrix(1 0 0 1 1208.9348 890.6588)" class="st1 st2">Plants</text>
+<line class="st3" x1="599.9" y1="220.5" x2="667.9" y2="220.5"/>
+<line class="st3" x1="766.9" y1="220.5" x2="835.4" y2="220.5"/>
+<line class="st3" x1="885.4" y1="339" x2="885.4" y2="270.5"/>
+<line class="st3" x1="885.4" y1="438" x2="885.4" y2="506.5"/>
+<line class="st3" x1="1003.9" y1="556.5" x2="935.4" y2="556.5"/>
+<line class="st3" x1="1102.9" y1="556.5" x2="1171.4" y2="556.5"/>
+<line class="st3" x1="1221.4" y1="675" x2="1221.4" y2="606.5"/>
+<line class="st3" x1="1221.4" y1="774" x2="1221.4" y2="842.5"/>
+<text transform="matrix(1 0 0 1 663.3517 213.4918)" class="st1 st4">n</text>
+<text transform="matrix(1 0 0 1 766.9326 213.4918)" class="st1 st4">n</text>
+<text transform="matrix(1 0 0 1 1102.9326 547.9918)" class="st1 st4">n</text>
+<text transform="matrix(1 0 0 1 1000.2258 547.9918)" class="st1 st4">1</text>
+<text transform="matrix(1 -1.562436e-04 1.562436e-04 1 898.7308 441.9918)" class="st1 st4">n</text>
+<text transform="matrix(1 8.200704e-04 -8.200704e-04 1 898.7307 338.9943)" class="st1 st4">1</text>
+<text transform="matrix(1 1.161682e-04 -1.161682e-04 1 1227.7335 677.1015)" class="st1 st4">1</text>
+<text transform="matrix(1 -2.374130e-04 2.374130e-04 1 1227.7327 780.6828)" class="st1 st4">1</text>
+<ellipse class="st0" cx="328.8" cy="146.8" rx="59.2" ry="23.7"/>
+<ellipse class="st0" cx="328.8" cy="220.7" rx="59.2" ry="23.7"/>
+<ellipse class="st0" cx="328.8" cy="294.5" rx="59.2" ry="23.7"/>
+<ellipse class="st0" cx="328.8" cy="368.4" rx="59.2" ry="23.7"/>
+<text transform="matrix(1 0 0 1 305.558 146.799)" class="st1 st2">Username</text>
+<text transform="matrix(1 0 0 1 305.558 220.6583)" class="st1 st2">Password</text>
+<text transform="matrix(1 0 0 1 313.0576 294.5176)" class="st1 st2">image</text>
+<text transform="matrix(1 0 0 1 305.558 368.377)" class="st1 st2">reg_date</text>
+<ellipse class="st0" cx="717.4" cy="116.1" rx="59.2" ry="23.7"/>
+<ellipse class="st0" cx="1141.5" cy="146.8" rx="59.2" ry="23.7"/>
+<ellipse class="st0" cx="1141.5" cy="220.7" rx="59.2" ry="23.7"/>
+<ellipse class="st0" cx="1141.5" cy="294.5" rx="59.2" ry="23.7"/>
+<ellipse class="st0" cx="1141.5" cy="368.4" rx="59.2" ry="23.7"/>
+<text transform="matrix(1 0 0 1 1118.2721 146.7991)" class="st1 st2">location</text>
+<text transform="matrix(1 0 0 1 1109.563 220.6583)" class="st1 st2">water_usage</text>
+<text transform="matrix(1 0 0 1 1109.5632 294.5176)" class="st1 st2">power_usage</text>
+<text transform="matrix(1 0 0 1 1118.2725 368.377)" class="st1 st2">reg_date</text>
+<text transform="matrix(1 0 0 1 687.3983 119.0889)" class="st1 st2">Created_at</text>
+<line class="st3" x1="438.6" y1="146.8" x2="438.6" y2="368.4"/>
+<line class="st3" x1="499.4" y1="219.3" x2="438.6" y2="219.3"/>
+<line class="st3" x1="438.6" y1="368.4" x2="388.1" y2="368.4"/>
+<line class="st3" x1="388.1" y1="294.5" x2="438.6" y2="294.5"/>
+<line class="st3" x1="388.1" y1="220.7" x2="438.6" y2="219.3"/>
+<line class="st3" x1="388.1" y1="146.8" x2="438.6" y2="146.8"/>
+<line class="st3" x1="717.4" y1="171" x2="717.4" y2="139.8"/>
+<line class="st3" x1="935.4" y1="219.3" x2="1082.3" y2="219.3"/>
+<line class="st3" x1="1015.9" y1="146.8" x2="1015.9" y2="368.4"/>
+<line class="st3" x1="1082.3" y1="368.4" x2="1015.9" y2="368.4"/>
+<line class="st3" x1="1082.3" y1="146.8" x2="1015.9" y2="146.8"/>
+<line class="st3" x1="1082.3" y1="294.5" x2="1015.9" y2="294.5"/>
+<rect x="1561" y="53.1" class="st5" width="302" height="533.9"/>
+<rect x="1582.7" y="118.5" class="st6" width="100" height="100"/>
+<rect x="1597.7" y="270.4" transform="matrix(0.7071 0.7071 -0.7071 0.7071 694.1498 -1065.0355)" class="st6" width="70" height="70"/>
+<ellipse class="st6" cx="1632.7" cy="416" rx="59.2" ry="23.7"/>
+<text transform="matrix(1 0 0 1 1691.9335 85)" class="st7 st8">Legend</text>
+<text transform="matrix(1 0 0 1 1721 168.5)" class="st9 st2">Entity</text>
+<text transform="matrix(1 0 0 1 1721 305.3952)" class="st9 st2">Relationship</text>
+<text transform="matrix(1 0 0 1 1721 415.9832)" class="st9 st2">Attribute</text>
+<text transform="matrix(1 0 0 1 599.4352 46.6162)" class="st7 st10">Entity Relationship Diagram</text>
+</svg>
