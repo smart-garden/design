@@ -16,13 +16,13 @@
 	.st10{font-size:20px;}
 </style>
 <rect x="499.4" y="170.5" class="st0" width="100" height="100"/>
-<rect x="682.4" y="185.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 366.0431 -442.7227)" class="st0" width="70" height="70"/>
+<rect x="682.4" y="185.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 54.2138 571.8722)" class="st0" width="70" height="70"/>
 <rect x="835.4" y="170.5" class="st0" width="100" height="100"/>
-<rect x="850.4" y="353.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 534.0431 -512.3105)" class="st0" width="70" height="70"/>
+<rect x="850.4" y="353.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -15.3739 739.8715)" class="st0" width="70" height="70"/>
 <rect x="835.4" y="506.5" class="st0" width="100" height="100"/>
-<rect x="1018.4" y="521.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 702.0431 -581.8984)" class="st0" width="70" height="70"/>
+<rect x="1018.4" y="521.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -84.9615 907.8709)" class="st0" width="70" height="70"/>
 <rect x="1171.4" y="506.5" class="st0" width="100" height="100"/>
-<rect x="1186.4" y="689.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 870.0431 -651.4863)" class="st0" width="70" height="70"/>
+<rect x="1186.4" y="689.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -154.549 1075.8701)" class="st0" width="70" height="70"/>
 <rect x="1171.4" y="842.5" class="st0" width="100" height="100"/>
 <text transform="matrix(1 0 0 1 533.4349 220.6583)" class="st1 st2">Users</text>
 <text transform="matrix(1 0 0 1 689.5005 222.2156)" class="st1 st2">connected</text>
@@ -75,17 +75,37 @@
 <line class="st3" x1="388.1" y1="146.8" x2="438.6" y2="146.8"/>
 <line class="st3" x1="717.4" y1="171" x2="717.4" y2="139.8"/>
 <line class="st3" x1="935.4" y1="219.3" x2="1082.3" y2="219.3"/>
-<line class="st3" x1="1015.9" y1="146.8" x2="1015.9" y2="368.4"/>
+<line class="st3" x1="1015.9" y1="71.1" x2="1015.9" y2="368.4"/>
 <line class="st3" x1="1082.3" y1="368.4" x2="1015.9" y2="368.4"/>
 <line class="st3" x1="1082.3" y1="146.8" x2="1015.9" y2="146.8"/>
 <line class="st3" x1="1082.3" y1="294.5" x2="1015.9" y2="294.5"/>
 <rect x="1561" y="53.1" class="st5" width="302" height="533.9"/>
 <rect x="1582.7" y="118.5" class="st6" width="100" height="100"/>
-<rect x="1597.7" y="270.4" transform="matrix(0.7071 0.7071 -0.7071 0.7071 694.1498 -1065.0355)" class="st6" width="70" height="70"/>
+<rect x="1597.7" y="270.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 262.255 1243.9314)" class="st6" width="70" height="70"/>
 <ellipse class="st6" cx="1632.7" cy="416" rx="59.2" ry="23.7"/>
 <text transform="matrix(1 0 0 1 1691.9335 85)" class="st7 st8">Legend</text>
 <text transform="matrix(1 0 0 1 1721 168.5)" class="st9 st2">Entity</text>
 <text transform="matrix(1 0 0 1 1721 305.3952)" class="st9 st2">Relationship</text>
 <text transform="matrix(1 0 0 1 1721 415.9832)" class="st9 st2">Attribute</text>
 <text transform="matrix(1 0 0 1 599.4352 46.6162)" class="st7 st10">Entity Relationship Diagram</text>
+<ellipse class="st0" cx="1141.5" cy="70.3" rx="59.2" ry="23.7"/>
+<ellipse class="st0" cx="687.4" cy="630.2" rx="59.2" ry="23.7"/>
+<text transform="matrix(1 0 0 1 659.9016 623.0418)" class="st1 st2">Water Temp</text>
+<text transform="matrix(1 0 0 1 1109.563 71.1138)" class="st1 st2">Temperature</text>
+<ellipse class="st0" cx="687.4" cy="556.5" rx="59.2" ry="23.7"/>
+<text transform="matrix(1 0 0 1 647.6967 555.5816)" class="st1 st2">Time of nutrient </text>
+<text transform="matrix(1 0 0 1 647.6967 569.9816)" class="st1 st2">injection</text>
+<ellipse class="st0" cx="687.4" cy="482.8" rx="59.2" ry="23.7"/>
+<ellipse class="st0" cx="687.4" cy="703.1" rx="59.2" ry="23.7"/>
+<text transform="matrix(1 0 0 1 658.2983 472.2418)"><tspan x="0" y="0" class="st1 st2">Electrical </tspan><tspan x="0" y="14.4" class="st1 st2">Conductivity</tspan><tspan x="0" y="28.8" class="st1 st2">     ppm</tspan></text>
+<text transform="matrix(1 0 0 1 677.6985 703.0914)" class="st1 st2">pH</text>
+<ellipse class="st0" cx="687.4" cy="409.9" rx="59.2" ry="23.7"/>
+<text transform="matrix(1 0 0 1 664.2983 415.975)" class="st1 st2">Humidity</text>
+<line class="st3" x1="785" y1="409.9" x2="785" y2="703.1"/>
+<line class="st3" x1="746.6" y1="409.9" x2="785" y2="409.9"/>
+<line class="st3" x1="746.6" y1="482.8" x2="785" y2="482.8"/>
+<line class="st3" x1="746.6" y1="556.5" x2="835.4" y2="555.6"/>
+<line class="st3" x1="746.6" y1="630.2" x2="785" y2="630.2"/>
+<line class="st3" x1="746.6" y1="703.1" x2="785" y2="703.1"/>
+<line class="st3" x1="1082.3" y1="70.7" x2="1015.9" y2="70.7"/>
 </svg>
